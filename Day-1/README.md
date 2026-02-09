@@ -44,7 +44,7 @@ Imagine you’re part of a team developing a new web application. This is how Gi
 #
 
 ## How to Create Gitlab account : 
-- Go to <a href="https://gitlab.com/users/sign_up">Gitlab SingUp</a> page, and enter the basic details :
+- Go to <a href="https://gitlab.com/users/sign_up">Gitlab SignUp</a> page, and enter the basic details :
 <img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab%20Signup.png" />
 
 #

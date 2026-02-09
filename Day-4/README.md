@@ -1,7 +1,7 @@
 # Gitlab Runners
 
 ## What are runners in Gitlab?
-- Runners are the agents that run the CI/CD jobs that come from GitLab. <a href="https://docs.gitlab.com/runner/">Runners in Gitlab</b>
+- Runners are the agents that run the CI/CD jobs that come from GitLab. <a href="https://docs.gitlab.com/runner/">Runners in Gitlab</a>
 - When you register a runner, you are setting up communication between your GitLab instance and the machine where GitLab Runner is installed.
 - Runners usually process jobs on the same machine where you installed GitLab Runner. However, you can also have a runner process jobs in a container, in a Kubernetes cluster, or in auto-scaled instances in the cloud.
 - There are two types of runners:
