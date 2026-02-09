@@ -34,12 +34,12 @@
 
 #
 - Navigate to Gitlab, Project --> Settings --> CI/CD --> Runners --> Expand and click on three dots as shown in the screenshot below
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/RegisterRunner-1.png" />
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/RegisterRunner-commands.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/RegisterRunner-1.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/RegisterRunner-commands.png" />
 
 #
 - Copy the commands and create a script in your linux machine and run the script.
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Runner-Script.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Runner-Script.png" />
 
 #
 - Copy the next command to register runner from the gitlab.
@@ -49,8 +49,8 @@
   - Enter tags for the runner (comma-separated): Node, ubuntu (You can add any tags, these tags are very important because we need these tags in CI/CD)
   - Enter an executor: Shell
 
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Runner-registered%20successfully.png" />
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Runner-web.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Runner-registered%20successfully.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Runner-web.png" />
 
 #
 ## How to run CI/CD on our personal runner:
@@ -82,6 +82,6 @@ fi
 
 #
 - Check CI/CD pipeline logs to see where project ran:
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Ran-onRunner.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Ran-onRunner.png" />
 
 #

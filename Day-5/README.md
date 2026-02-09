@@ -4,7 +4,7 @@
 
 ### Pre-requisites to implement this project:
 -  Create 1 virtual machine on AWS with 2 CPU, 4GB of RAM (t2.medium)
-- Setup it as runner in Gitlab <a href="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Day-4/README.md">Runner</a>.
+- Setup it as runner in Gitlab <a href="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Day-4/README.md">Runner</a>.
 - Sudo permission
 - Install docker
 
@@ -27,7 +27,7 @@
     ```
 
 #
-4) Create two variables for docker login, to create variables <a href="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Day-3/README.md">Variables</a>
+4) Create two variables for docker login, to create variables <a href="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Day-3/README.md">Variables</a>
 
 #
 5) Paste the below code in .gitlab-ci file :
