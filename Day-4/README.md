@@ -19,11 +19,11 @@
 
 #
 <b>Check the below screen of CI/CD pipeline where job ran if we not configure personal runner</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Shared-runner.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Shared-runner.png" />
 
 > To list all the runners in gitlab
 - Project --> Settings --> CI/CD --> Runners
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/No-of-SharedRunners.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/No-of-SharedRunners.png" />
 
 #
 ## How to add runners in Gitlab:

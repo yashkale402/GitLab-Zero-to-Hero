@@ -45,26 +45,26 @@ Imagine you’re part of a team developing a new web application. This is how Gi
 
 ## How to Create Gitlab account : 
 - Go to <a href="https://gitlab.com/users/sign_up">Gitlab SignUp</a> page, and enter the basic details :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab%20Signup.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab%20Signup.png" />
 
 #
 - Verify email address :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab%20Signup-2.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab%20Signup-2.png" />
 
 #
 - Verify phone number :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab%20SignUp-3.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab%20SignUp-3.png" />
 
 #
 - Add additional information :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab%20SignUp-4.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab%20SignUp-4.png" />
 
 #
 - Create or import project to Gitlab :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab%20SignUp-5.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab%20SignUp-5.png" />
 
 #
 - Access gitlab dashboard :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab-Dashboard.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab-Dashboard.png" />
 
 

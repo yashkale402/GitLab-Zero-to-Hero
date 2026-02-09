@@ -9,38 +9,38 @@ There are multiple ways to onboard projects on Gitlab, We can see two types onbo
 ### 1. Onboarding using "Import project" option :
 - Navigate to the home page of Gitlab.
 - Click on <b>New Project</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/New-proj.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/New-proj.png" />
 
 #
 - After that, you will see 4 types of onboarding options, click on <b>Import project</b> option
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Import-project.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Import-project.png" />
 
 #
 - Click on <b>GitHub</b> option
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Import-GitHub.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Import-GitHub.png" />
 
 #
 - We can authenticate GitHub account using 2 ways, either click on <b>Authenticate with GitHub</b> button or provide <b>Personal Access Token</b> and click on <b>Authenticate</b> button
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab-PAT.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab-PAT.png" />
 
 #
 - Search the project whichever you want to onboard and click on <b>Import repository</b> button
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/GItlab-node.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/GItlab-node.png" />
 
 #
 - Once project is <b>Imported</b> to Gitlab, you will see <i>Completed</i> as shown in the below screenshot
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab-nodeimp-complete.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab-nodeimp-complete.png" />
 
 #
 - Verify
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-importVerify.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-importVerify.png" />
 
 #
 ### 2. Onboard project using "Create blank project" option :
 - Click on <b>New Project</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/New-proj.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/New-proj.png" />
 
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Blank-proj.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Blank-proj.png" />
 
 #
 - Enter the project name, visibility and click on <b>Create Project</b>
@@ -62,7 +62,7 @@ cd django-todo-cicd
 ```bash
 git remote set-url origin https://gitlab.com/yashkale4021/django-app.git
 ```
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-seturl.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-seturl.png" />
 
 #
 - Push your code
@@ -70,18 +70,18 @@ git remote set-url origin https://gitlab.com/yashkale4021/django-app.git
 git push -uf origin main
 ```
 <b>Note: If your get error like below</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Gitlab-pusherror.png"/>
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Gitlab-pusherror.png"/>
 
 <b>Go to project: "Settings" → "Repository" → scroll down to "Protected branches" and allow "Force push" and "Allowed to push and merge" to Maintainers + Developers</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-protectedBranch.png"/>
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-protectedBranch.png"/>
 
 #
 - Again try to push code (Execute this step only if you get error on first push) :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Code-pushed-Gitlab.png"/>
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Code-pushed-Gitlab.png"/>
 
 #
 - Verify on Gitlab :
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/Verify-BlankCodePush-Gitlab.png"/>
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/Verify-BlankCodePush-Gitlab.png"/>
 
 #
 # First CI/CD pipeline in Gitlab :
