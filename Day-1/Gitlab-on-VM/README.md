@@ -47,8 +47,8 @@ cd /tmp
  sudo vi /etc/gitlab/gitlab.rb
   ```
 > Note: Edit <b>letsencrypt['contact_emails']</b> with your contact email in the same file <b>/etc/gitlab/gitlab.rb</b>
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-http.png" />
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-http-2.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-http.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-http-2.png" />
 
 #
 - <b>Reconfigure GitLab</b>
@@ -61,7 +61,7 @@ sudo gitlab-ctl reconfigure
 ```bash
 https://your_domain
   ```
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-dash-vm.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-dash-vm.png" />
 
 #
 - <b>GitLab generates an initial secure password for you. It is stored in a folder that you can access as an administrative sudo user</b>
@@ -73,7 +73,7 @@ sudo nano /etc/gitlab/initial_root_password
 - <b>Username and Password : </b> 
 - Username: root
 - Password: [the password listed on /etc/gitlab/initial_root_password]
-<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/main/Assets/gitlab-main.png" />
+<img src="https://github.com/yashkale402/GitLab-Zero-to-Hero/blob/master/Assets/gitlab-main.png" />
 
 #
 <b>Congratulation, you have successfully configured Gitlab on Ubuntu Server</b>
